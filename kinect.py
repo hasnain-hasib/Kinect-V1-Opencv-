@@ -1,4 +1,4 @@
-import freenect
+import freenect #check if freenect is installed system wide
 import cv2
 import numpy as np
 import threading
