@@ -1,6 +1,3 @@
-# kinect_openCV
-
-
 
 ## Kinect Object Detection
 
